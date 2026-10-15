@@ -107,8 +107,10 @@ const AddFeedback = () => {
                </form>
       
     </div>
+
+
     </div>
   )
-}
+};
 
 export default AddFeedback
